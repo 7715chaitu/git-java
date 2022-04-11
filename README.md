@@ -1,4 +1,9 @@
-platform-samples
+  This is my new commad and new changes.
+
+
+
+
+  platform-samples
 ================
 
 This is a public place for all sample projects related to the GitHub Platform.
